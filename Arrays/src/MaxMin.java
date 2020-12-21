@@ -25,10 +25,11 @@ public class MaxMin {
 		
 		if(a[i]>max) {
 			max=a[i];
+			
 		}
 		
 	}
-	System.out.println("maximum is"+max);
+	
 	
 	}
 
